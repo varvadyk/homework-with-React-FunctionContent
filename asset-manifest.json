@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/homework-with-React-FunctionContent/static/css/main.b2537bf9.chunk.css",
+    "main.js": "/homework-with-React-FunctionContent/static/js/main.b9f793b8.chunk.js",
+    "main.js.map": "/homework-with-React-FunctionContent/static/js/main.b9f793b8.chunk.js.map",
+    "runtime-main.js": "/homework-with-React-FunctionContent/static/js/runtime-main.f2607833.js",
+    "runtime-main.js.map": "/homework-with-React-FunctionContent/static/js/runtime-main.f2607833.js.map",
+    "static/js/2.78aa05f1.chunk.js": "/homework-with-React-FunctionContent/static/js/2.78aa05f1.chunk.js",
+    "static/js/2.78aa05f1.chunk.js.map": "/homework-with-React-FunctionContent/static/js/2.78aa05f1.chunk.js.map",
+    "index.html": "/homework-with-React-FunctionContent/index.html",
+    "precache-manifest.0885dd6d7602c680fe48da09a12f130e.js": "/homework-with-React-FunctionContent/precache-manifest.0885dd6d7602c680fe48da09a12f130e.js",
+    "service-worker.js": "/homework-with-React-FunctionContent/service-worker.js",
+    "static/css/main.b2537bf9.chunk.css.map": "/homework-with-React-FunctionContent/static/css/main.b2537bf9.chunk.css.map",
+    "static/js/2.78aa05f1.chunk.js.LICENSE.txt": "/homework-with-React-FunctionContent/static/js/2.78aa05f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2607833.js",
+    "static/js/2.78aa05f1.chunk.js",
+    "static/css/main.b2537bf9.chunk.css",
+    "static/js/main.b9f793b8.chunk.js"
+  ]
+}
